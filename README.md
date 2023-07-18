@@ -2,4 +2,4 @@
 git clone https://github.com/emtcybertahsin/Uff.git
 git pull
 cd UFF
-python free_
+python free_fuck.py
